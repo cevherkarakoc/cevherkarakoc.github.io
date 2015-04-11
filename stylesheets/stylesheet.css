@@ -245,3 +245,13 @@ a {
 .cf {
   zoom:1;
 }
+
+#facebook{
+	background-image : url(images/Facebook.png)
+}
+#twitter{
+	background-image : url(images/Twitter.png)
+}
+#githubL{
+	background-image : url(images/Github.png)
+}
