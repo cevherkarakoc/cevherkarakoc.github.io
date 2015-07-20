@@ -26,10 +26,6 @@ social:
     url: http://twitter.com/cevherkarakoc
   - title: facebook
     url: https://www.facebook.com/cevherkarakoc1
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/cevherkarakoc
 
