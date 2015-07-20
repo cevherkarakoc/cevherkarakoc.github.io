@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2015-07-18
 img: speed.png
 alt: image-alt
 project-date: May 2015
-client: Speed Reading
+client: Start Bootstrap
 category: Web application
 description:  A speed reading web application. Visit : <a href="http://cevherkarakoc.me/Speed-Reading/">APP</a>
 
