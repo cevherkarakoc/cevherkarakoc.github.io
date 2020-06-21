@@ -1,0 +1,80 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/fce496b99bfedabe56ac4e10485fe958d5fc014e-cb266cc6a30e907ab659.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-emma-core-src-templates-projects-query-tsx-976c4763a12f97f78d18.js
+  Cache-Control: public, max-age=31536000, immutable
+/48e126d0585132af7dbdb2999fb30ee48d466ff7-2154bcb7ad64b39a6310.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-emma-core-src-templates-project-query-tsx-3cd83a72c2622b7c88fb.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-emma-core-src-templates-page-query-tsx-d4b61f0d99688c7b8a62.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-gatsby-plugin-offline-app-shell-js-fda762d692133a373e8f.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-3796329c1aec31792522.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-5fc6169171e885c3b522.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-8357889390fafc0423e5.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/
+  Link: </webpack-runtime-3796329c1aec31792522.js>; rel=preload; as=script
+  Link: </framework-5fc6169171e885c3b522.js>; rel=preload; as=script
+  Link: </app-8357889390fafc0423e5.js>; rel=preload; as=script
+  Link: </fce496b99bfedabe56ac4e10485fe958d5fc014e-cb266cc6a30e907ab659.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emma-core-src-templates-projects-query-tsx-976c4763a12f97f78d18.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/konn-a-puzzle-platformer-game
+  Link: </webpack-runtime-3796329c1aec31792522.js>; rel=preload; as=script
+  Link: </framework-5fc6169171e885c3b522.js>; rel=preload; as=script
+  Link: </app-8357889390fafc0423e5.js>; rel=preload; as=script
+  Link: </fce496b99bfedabe56ac4e10485fe958d5fc014e-cb266cc6a30e907ab659.js>; rel=preload; as=script
+  Link: </48e126d0585132af7dbdb2999fb30ee48d466ff7-2154bcb7ad64b39a6310.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emma-core-src-templates-project-query-tsx-3cd83a72c2622b7c88fb.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/konn-a-puzzle-platformer-game/page-data.json>; rel=preload; as=fetch; crossorigin
+/you-are-the-president-and-mahluks
+  Link: </webpack-runtime-3796329c1aec31792522.js>; rel=preload; as=script
+  Link: </framework-5fc6169171e885c3b522.js>; rel=preload; as=script
+  Link: </app-8357889390fafc0423e5.js>; rel=preload; as=script
+  Link: </fce496b99bfedabe56ac4e10485fe958d5fc014e-cb266cc6a30e907ab659.js>; rel=preload; as=script
+  Link: </48e126d0585132af7dbdb2999fb30ee48d466ff7-2154bcb7ad64b39a6310.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emma-core-src-templates-project-query-tsx-3cd83a72c2622b7c88fb.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/you-are-the-president-and-mahluks/page-data.json>; rel=preload; as=fetch; crossorigin
+/yaban-procedural-island-generation
+  Link: </webpack-runtime-3796329c1aec31792522.js>; rel=preload; as=script
+  Link: </framework-5fc6169171e885c3b522.js>; rel=preload; as=script
+  Link: </app-8357889390fafc0423e5.js>; rel=preload; as=script
+  Link: </fce496b99bfedabe56ac4e10485fe958d5fc014e-cb266cc6a30e907ab659.js>; rel=preload; as=script
+  Link: </48e126d0585132af7dbdb2999fb30ee48d466ff7-2154bcb7ad64b39a6310.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emma-core-src-templates-project-query-tsx-3cd83a72c2622b7c88fb.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/yaban-procedural-island-generation/page-data.json>; rel=preload; as=fetch; crossorigin
+/about
+  Link: </webpack-runtime-3796329c1aec31792522.js>; rel=preload; as=script
+  Link: </framework-5fc6169171e885c3b522.js>; rel=preload; as=script
+  Link: </app-8357889390fafc0423e5.js>; rel=preload; as=script
+  Link: </fce496b99bfedabe56ac4e10485fe958d5fc014e-cb266cc6a30e907ab659.js>; rel=preload; as=script
+  Link: </48e126d0585132af7dbdb2999fb30ee48d466ff7-2154bcb7ad64b39a6310.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emma-core-src-templates-page-query-tsx-d4b61f0d99688c7b8a62.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-3796329c1aec31792522.js>; rel=preload; as=script
+  Link: </framework-5fc6169171e885c3b522.js>; rel=preload; as=script
+  Link: </app-8357889390fafc0423e5.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-fda762d692133a373e8f.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
